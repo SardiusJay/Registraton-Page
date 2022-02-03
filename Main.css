@@ -1,0 +1,58 @@
+/*body {
+    font-size: 100%;
+    font-family: sans-serif;
+    color: blue;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+*/
+
+body {
+    background-image: linear-gradient(to top right, #f3bb23, #3f76c4);
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Secular One', sans-serif;
+    align-items: center;
+    justify-items: center;
+    padding: 0;
+}
+
+.main-container {
+    display: flex;
+    width: 70%;
+    height: 600px;
+    min-height: 80vh;
+    background-color: white;
+    margin: 10vh auto;
+    border-radius: 12px;
+    box-shadow: 5px 5px 20px 0px rgb(0 0 0 / 50%);
+}
+
+h1 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: blue;
+}
+
+div {
+    align-items: center;
+    justify-content: center;
+    color: blue;
+    border-radius: 20;
+}
+
+input {
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+footer {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
